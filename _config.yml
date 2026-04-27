@@ -11,7 +11,7 @@ plugins:
 nav_order: 1
 
 # Add your navigation structure (optional override)
-nav:
+navbar-links:
   - title: "Home"
     url: /
   - title: "About Me"
