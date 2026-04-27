@@ -2,7 +2,13 @@
 title: Mia Hopkins | GIS Portfolio
 nav_order: 1
 ---
-[Projects](projects.md) | [About](about.md) | [Contact](contact.md)
+<div align="center">
+  <p>
+    <a href="projects.md">Projects</a> | 
+    <a href="about.md">About</a> | 
+    <a href="contact.md">Contact</a>
+  </p>
+</div>
 
 # Welcome!
 
