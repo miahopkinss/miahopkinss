@@ -12,14 +12,9 @@ nav_order: 1
 
 # Add your navigation structure (optional override)
 navbar-links:
-  - title: "Home"
-    url: /
-  - title: "About Me"
-    url: /about
-  - title: "Portfolio"
-    url: /projects
-  - title: "Contact"
-    url: /contact
+  About Me: "about"
+  Projects: "projects"
+  Contact: "contact"
 
 # Optional extras
 color_scheme: light
