@@ -1,13 +1,13 @@
 ---
-title: Home
+title: Mia Hopkins | Portfolio for Fundamentals of Geographic Information Systems
 nav_order: 1
 ---
 
-# 👋 Welcome
+# Welcome!
 
-Hi! I’m **Your Name**, a [short description — e.g. researcher, map designer, etc.].
+Hi! I’m Mia Hopkins, a Sustainability Master's student at Temple University. These are some of my favorite maps I've created for my Fundamentals of Geographic Information Systems class. Feel free to explore!
 
-Use the links on the left (or top, depending on theme) to explore:
+Use the links to explore:
 
 - [About Me](about.md)
 - [Projects](projects.md)
