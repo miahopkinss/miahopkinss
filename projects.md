@@ -17,7 +17,7 @@ Here are some of my favorite maps that I've created throughout this course:
 
   <div style="width: 400px; text-align: center;">
     <a href="./flint">
-      <img src="FGISMastery3q.jpg" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <img src="flintmap.jpg" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </a>
     <p><strong>Water Toxicity in Flint, MI</strong><br><em>Mapping toxic proximity with buffer tools</em></p>
   </div>
