@@ -3,7 +3,10 @@ layout: page
 title: 2020 Election Results Analysis
 ---
 
-![2020 Election Map](electionmapv2.jpg)
+<div style="text-align: center;">
+  <img src="electionmapv2.jpg" style="margin-left: 20px; width: 90%; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+</div>
+
 
 ### Spatial Problem
 Visualizing 2020 county-level election results while maintaining a clean visual hierarchy that accurately represents various margin criteria.
