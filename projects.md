@@ -3,7 +3,6 @@ title: Portfolio
 nav_order: 2
 ---
 
-# My Best Maps
 
 Here are some of my favorite maps that I've created throughout this course:
 
