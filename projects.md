@@ -26,7 +26,7 @@ Here are some of my favorite maps that I've created throughout this course:
     <a href="./miamidade">
       <img src="FGISMastery2Pic.jpg" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </a>
-    <p><strong>Population Density in Miami-Dade</strong><br><em>Visualizing density at multiple scales</em></p>
+    <p><strong>Population Density in Miami-Dade County</strong><br><em>Visualizing density at multiple scales</em></p>
   </div>
 
 </div>
