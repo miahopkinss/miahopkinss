@@ -3,8 +3,9 @@ title: Portfolio
 nav_order: 2
 ---
 
-
-Here are some of my favorite maps that I've created throughout this course:
+<div style="text-align: center; margin-bottom: 30px;">
+  <p>Here are some of my favorite maps that I’ve created throughout this course:</p>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
