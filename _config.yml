@@ -1,6 +1,6 @@
 title: My Website
 description: Portfolio and projects of Your Name
-remote_theme: academicpages/academicpages.github.io
+remote_theme: daattali/beautiful-jekyll
 
 # Enable GitHub Pages plugin
 plugins:
