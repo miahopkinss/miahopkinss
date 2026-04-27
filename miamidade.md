@@ -12,9 +12,10 @@ Creating a choropleth population map at the block level using Census data for Mi
 <br>
 <br>
 ### GIS Methodology
-This map was part of Mastery Assignment #3, where we were asked to determine the locations of the most at-risk communities for drinking contaminated tap water in Flint, Michigan. These communities needed to be within specific proximities to toxic release facilities, rivers, and lead pipelines. Creating a map that captured all of the required criteria necessitated not only drawing upon a variety of tools, but also using them in the correct sequence. These tools include buffer functions to measure distance, clipping functions to "clean up" the data layers, and intersect operations to determine which areas fit all requirements. By layering this operations, I was able to create an "at-risk" layer (highlighted in red) that revealed concentrated zones of vulnerability. This map provides a visual narrative that translates environmental data into actionable geographic insights.
+This map was part of Mastery Assignment #2, where we were asked to create a variety of choropleth maps displaying population density and housing density within Miami-Dade county using Census data. This map describes population density at the block level, resulting in a complex but highly interesting (and in my opinion, beautiful) display. Analyzing the census data proved to be the biggest challenge here, as we had to cross-reference an Excel file and make sure that the codes aligned. Once the proper data was identified, we then had to create and calculate new fields that would properly display the density margins. This map also touches on two very important tenets of GIS: The Modifiable Areal Unit Problem (aggregating data into different units can change the conclusions we draw from it), and ecological fallacy (the risk of drawing broad assumptions about a population from specific data). The resulting map is a balance between technical data management and visual hierarchy that reveals interesting nuances about the urban landscape of Miami-Dade County.
 
-* **Skills Used:** Buffer functions, clip functions, intersect functions, joins and relates 
+
+* **Skills Used:** Select by attribute, new field creation, field calculation, data cross-referencing, visual hierarchy in symbology 
 
 [Download my Draw.io Plan (JPEG)](FGISMasteryBlockPlan.jpg)
 
