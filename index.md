@@ -16,8 +16,4 @@ Hi! I’m Mia Hopkins, a Sustainability Master's student at Temple University. T
 
 <img src="FGISMastery2Pic.jpg" alt="Population Density per Miami-Dade County Block" width="100%">
 
-Use the links to explore:
 
-- [About Me](about.md)
-- [Projects](projects.md)
-- [Contact](contact.md)
