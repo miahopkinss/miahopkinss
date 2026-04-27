@@ -1,5 +1,5 @@
 ---
-title: Mia Hopkins | Portfolio for Fundamentals of Geographic Information Systems
+title: Mia Hopkins | GIS Portfolio
 nav_order: 1
 ---
 
