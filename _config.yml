@@ -4,7 +4,7 @@ remote_theme: daattali/beautiful-jekyll
 
 # Enable GitHub Pages plugin
 plugins:
-  - jekyll-remote-theme: jekyll-theme-architect
+  - jekyll-remote-theme: jekyll-theme-hacker
   
 
 # Set navigation order
