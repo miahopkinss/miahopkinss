@@ -4,7 +4,7 @@ remote_theme: daattali/beautiful-jekyll
 
 # Enable GitHub Pages plugin
 plugins:
-  - jekyll-remote-theme: jekyll-theme-hacker
+  - jekyll-remote-theme
   
 
 # Set navigation order
@@ -16,7 +16,7 @@ nav:
     url: /
   - title: "About Me"
     url: /about
-  - title: "Projects"
+  - title: "Portfolio"
     url: /projects
   - title: "Contact"
     url: /contact
