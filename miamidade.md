@@ -17,5 +17,6 @@ This map was part of Mastery Assignment #2, where we were asked to create a vari
 
 * **Skills Used:** Attribute selection, field creation, field calculation, data cross-referencing, visual hierarchy in symbology 
 
-[Download my Draw.io Plan (JPEG)](FGISMasteryBlockPlan.jpg)
+[Download my Full Map](FPMIAMIDADE.jpg)
+[Download my Draw.io Plan](FGISMasteryBlockPlan.jpg)
 
