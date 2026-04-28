@@ -11,7 +11,7 @@ nav_order: 2
 
   <div style="width: 400px; text-align: center;">
     <a href="./electionmap">
-      <img src="EM1.jpg" style="width: 100%; border-radius: 8px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
+      <img src="EM1.jpg" style="width: 100%; border-radius: 8px; box-shadow: 0 16px 32px rgba(0,0,0,0.1);">
     </a>
     <p><strong>2020 Election Map</strong><br><em>Creating visually appealing choropleth maps</em></p>
   </div>
