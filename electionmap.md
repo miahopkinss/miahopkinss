@@ -4,7 +4,7 @@ title: 2020 Pennsylvania Election Results
 ---
 
 <div style="text-align: center;">
-  <img src="electionmapv2.jpg" style="margin-left: 20px; width: 90%; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  <img src="EM1.jpg" style="margin-left: 20px; width: 90%; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
 </div>
 <br>
 ### Spatial Problem
