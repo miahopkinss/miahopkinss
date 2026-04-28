@@ -18,4 +18,4 @@ This map was part of Mastery Assignment #3, where we were asked to determine the
 
 [Download my Full Map](FPFLINT.jpg)
 <br>
-[Download my Draw.io Plan (JPEG)](FGISMastery3plan.jpg)
+[Download my Draw.io Plan](FGISMastery3plan.jpg)
