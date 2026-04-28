@@ -16,4 +16,4 @@ This map was part of Mastery Assignment #2, where we were asked to create an ele
 * **Skills Used:** Proper CRS conversion, joins and relates, field creation, attribute selection, field calculation, visual hierarchy in symbology
 
 [Download the full map](FPELECTIONMAP.jpg)
-[Download my Draw.io Plan (JPEG)](FGISMastery2ElectionMapPlan.jpg)
+[Download my Draw.io Plan](FGISMastery2ElectionMapPlan.jpg)
