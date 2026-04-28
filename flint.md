@@ -16,4 +16,6 @@ This map was part of Mastery Assignment #3, where we were asked to determine the
 
 * **Skills Used:** Buffer functions, clip functions, intersect functions, joins and relates 
 
+[Download my Full Map](FPFLINT.jpg)
+<br>
 [Download my Draw.io Plan (JPEG)](FGISMastery3plan.jpg)
