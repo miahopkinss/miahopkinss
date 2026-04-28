@@ -8,7 +8,7 @@ title: Mapping Population Density per Miami-Dade County Block
 </div>
 <br>
 ### Spatial Problem
-Creating a choropleth population map at the block level using Census data for Miami-Dade County
+Creating a choropleth population map at the block level using Census data for Miami-Dade County.
 <br>
 <br>
 ### GIS Methodology
