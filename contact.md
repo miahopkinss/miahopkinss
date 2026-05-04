@@ -7,6 +7,6 @@ nav_order: 4
 
 You can reach me at:
 
-- 📧 yourname@gmail.com  
-- 🌐 [GitHub](https://github.com/yourusername)  
-- 📍 Based in Japan  
+- 📧 mhopk4@gmail.com | mia.hopkins@temple.edu
+- 🌐 [GitHub](https://github.com/miahopkinss)  
+- 📍 Based in Philadelphia  
