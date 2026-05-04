@@ -5,7 +5,6 @@ nav_order: 3
 
 # About Me
 
-I’m a geographer and educator passionate about mapping, cities, and design.
+I’m a current student at Temple University pursuing a Professional Science Master's in Sustainability, with the concentration in GIS studies.
 
-- **Current role:** Professor of Urban Spatial Design in Japan  
-- **Interests:** Web mapping, spatial analysis, and creative geography 
+
