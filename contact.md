@@ -7,6 +7,6 @@ nav_order: 4
 
 You can reach me at:
 
-- 📧 mhopk4@gmail.com | mia.hopkins@temple.edu
+- 📧 mhopk4@gmail.com or mia.hopkins@temple.edu
 - 🌐 [GitHub](https://github.com/miahopkinss)  
 - 📍 Based in Philadelphia  
